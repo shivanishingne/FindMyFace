@@ -33,7 +33,3 @@ for i, face_rect in enumerate(detected_faces):
 
 #wait until the user hits <enter> to close the window
 dlib.hit_enter_to_continue()
-
-
-
-
